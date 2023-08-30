@@ -2717,6 +2717,24 @@ ul.top-ecommerce-icons li a.closeMenu {
     border-bottom: 0
 }
 
+<<<<<<< HEAD
+=======
+.brass-header {
+    padding: 50px 0;
+    background-color: #f2f2f2;
+    margin: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQab_vNoREwfQDWK6PmIdU8hz-u5T0zHqG7LQ&usqp=CAU);
+    background-position: 0 -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    #background-attachment: fixed;
+    float: left;
+    width: 100%;
+    border-bottom: 0
+}
+
+>>>>>>> d15edc3cc5adc0b0c73c9413ef2fa84a5c732be2
 .page-header:before {
     position: absolute;
     content: '';
