@@ -1589,7 +1589,10 @@ ul.top-ecommerce-icons li a.closeMenu {
     margin-left: -25px;
     background-color: none
 }
-
+.brassbanner img{
+    max-height: 350px;
+    max-width: 350px;
+}
 .heading-border:after,
 .heading-border:before {
     width: 100px;
@@ -1601,7 +1604,16 @@ ul.top-ecommerce-icons li a.closeMenu {
     height: 1px;
     content: ''
 }
-
+.whychooseusimg img{
+    
+    width: 50%;
+    height: 50%;
+}
+.whychooseusimg{
+    /* display: flex;
+    justify-content: center; */
+    
+}
 .heading-border:before {
     top: 0
 }
@@ -2565,7 +2577,9 @@ ul.top-ecommerce-icons li a.closeMenu {
     display: flex;
     justify-content: center;
 }
-
+.center{
+    justify-content: center;
+}
 .wa-box-style2 {
     padding: 10px;
     border: 1px solid #eee;
