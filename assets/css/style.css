@@ -16,6 +16,22 @@ p {
     margin-top: 15px;
 }
 
+@media only screen and (max-width: 550px){
+
+    .feature-card-content-container{
+
+        text-align: center;
+        margin: 10px 0px;
+    }
+
+    .feature-card-container{
+
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        border-radius: 5px;
+        margin: 50px 0px 0px 0px;
+    }
+}
+
 body,
 em,
 h1,
@@ -2099,6 +2115,22 @@ ul.top-ecommerce-icons li a.closeMenu {
     float: left;
     width: 100%
 }
+
+/* ================== */
+
+.wa-products{
+
+    background-color: rgba(238, 238, 238, .64);
+    padding: 5px;
+    min-height: 327px;
+}
+
+.wa-products img{
+
+    min-height: 250px;
+}
+
+/* ====================== */
 
 .wa-products-main .wa-products h2 a {
     color: #202020
